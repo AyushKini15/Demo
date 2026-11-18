@@ -1,0 +1,39 @@
+
+body{
+    background: rgb(6, 73, 136);
+}
+.whiteline, dwhiteline{
+    background-color: white;
+    
+}
+.titlename{
+    font-size: 800%;
+    color: rgb(211, 211, 74);
+    text-align: center;
+}
+.content{
+    font-size: 200%;
+    color: rgb(211, 211, 74);
+    text-align: center;
+}
+.boxline{
+    background-color: white;
+    
+}
+.boxcolor{
+    background-color: rgb(226, 70, 49);
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 200%;
+}
+.boxcolorcontent{
+    background-color: rgb(226, 70, 49);
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 250%;
+}
+.logo{
+    text-align: right;
+}
